@@ -28,6 +28,8 @@ L'extension traite et injecte les données suivantes, en conformité avec la dir
 7. **Instructions de conservation** (ex. : "À conserver au frais après ouverture")
 8. **Adresse de l'exploitant** (ex. : GB Foods BELGIUM NV, Rijksweg 16, B-2870 Puurs, Belgique)
 
+    <img src="popup.png">
+    
 ## Installation
 
 1. Clonez ce dépôt ou téléchargez les fichiers de l'extension.
